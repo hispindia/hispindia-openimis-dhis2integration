@@ -1,1 +1,1 @@
-# hispindia-openimis-dhis2integration
+# openimis-dhis2-configuration_json
